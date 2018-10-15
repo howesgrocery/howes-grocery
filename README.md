@@ -32,6 +32,7 @@
   c) Type "mkdir GroceryStore" and then press enter. "mkdir" stands for make directory. Note: you can change the GroceryStore to be any name you would like it to be i.e. howes-grocery, HowesGroceryStore, etc. but it cannot include spaces.
   
   d) Type "cd GroceryStore" (or whatever you have named the folder you just made) and then press enter. You are now in your newly made folder.
+  
 3. Clone the repository by doing the following:
   
   a) Copy the repository link: https://github.com/howesgrocery/howes-grocery.git from the main repository page (to copy the link press the clone or download button and you can then press the copy button that looks like a clipboard).
