@@ -5,9 +5,12 @@
 2. Download the Howes Grocery Store repository/folder from the main repository page and then move it into the folder you have created (ie GroceryStore).
 3. Open the terminal application on your computer. (You can search for this in your applications. It is typically in Utilities.)
 4. The terminal will open at the top level of your computer. Next, navigate to the downloaded howes-grocery-master folder. To do this, do the following:
+
   a) Type "cd Documents" and then press enter. "cd" stands for change directory. Your terminal will now have you in your Documents folder.
-  a) Type "cd GroceryStore" (or whatever you named the folder from step 1) and then press enter. Your terminal will now have you in your GroceryStore folder.
-  a) Type "cd howes-grocery-master" and then press enter. Your terminal will now have you in your howes-grocery-master folder.
+  
+  b) Type "cd GroceryStore" (or whatever you named the folder from step 1) and then press enter. Your terminal will now have you in your GroceryStore folder.
+  
+  c) Type "cd howes-grocery-master" and then press enter. Your terminal will now have you in your howes-grocery-master folder.
 5. Download node.js from: https://nodejs.org/en/download/. You can likely download the "recommended for most users" version.
 6. Once the node.js software has been downloaded, return to the terminal window and type "npm install" and then press enter. This will install any necessary packages.
 7. Then, again in the terminal window, type "npm run build" and then press enter.
