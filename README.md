@@ -1,6 +1,7 @@
 # Online Grocery Store 2.0
 
 # Directions for Downloading on a Mac:
+Note: unless you will be editing the code, you can likely just download the code and run it locally.
 1. Create a folder on your computer in which you want to store the Howes Grocery Story Project. Be sure that the folder name has no spaces i.e. howes-grocery, HowesGroceryStore, etc. For the instructions we will use the folder name "GroceryStore". (For the easiest way to follow the instructions below, create the folder in your Documents folder).
 2. Download the Howes Grocery Store repository/folder from the main repository page and then move it into the folder you have created (ie GroceryStore).
 3. Open the terminal application on your computer. (You can search for this in your applications. It is typically in Utilities.)
